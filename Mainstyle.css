@@ -16,7 +16,7 @@ divheader{
 
 div1{
 	height: 100%;
-	width: auto;
+	width: 100%;
 	background-image: url("prom1.gif");
 	background-repeat: no-repeat;
  	background-position: center;
@@ -26,5 +26,6 @@ div1{
 h1{
 	font_family: "Lucida Console";
 	color: white;
+	z-index: 6;
 	font_sixe: 24px;
 }
