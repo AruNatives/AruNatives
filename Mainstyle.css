@@ -23,8 +23,9 @@ div1{
 	background-attachment: fixed;
 }
 
-h1{
+th{
 	font-family: Arial;
 	color: #ffffff;
 	font_size: 24px;
+	padding: 10px;
 }
