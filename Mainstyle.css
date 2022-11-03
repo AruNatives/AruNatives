@@ -3,7 +3,7 @@ body{
 }
 
 divheader{
-	z-index: 5
+	z-index: 5;
 	align-items: center;
 	height: 60px;
 	width: 100%;
