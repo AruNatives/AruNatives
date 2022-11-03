@@ -5,9 +5,9 @@ body{
 		border: 0px;
 		padding: 0px;
 		margin: 0px;
-	}
+}
 
-	divheader{
+divheader{
 		height: 15%;
 		width: auto;
 		background-color: black;
@@ -15,4 +15,13 @@ body{
 		position: fixed;
 		display: block;
 		top: 0;
-	}
+}
+
+div1{
+	height: 100%;
+	width: auto;
+	background-image: url("prom1.gif");
+	background-repeat: no-repeat;
+ 	background-position: center;
+	background-attachment: fixed;
+}
