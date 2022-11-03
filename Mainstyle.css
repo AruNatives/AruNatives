@@ -25,5 +25,6 @@ div1{
 
 h1{
 	font_family: "Lucida Console";
-	text_color: white;
+	color: white;
+	font_sixe: 24px;
 }
