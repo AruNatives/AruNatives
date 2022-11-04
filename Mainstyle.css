@@ -1,3 +1,9 @@
+@font-face {
+  font-family: Lucida Console;
+  src: url(LUCON.TTF);
+}
+
+
 body{
  	background-color: #262626;
 	margin: 0px;
