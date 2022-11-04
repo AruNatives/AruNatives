@@ -28,10 +28,18 @@ div1{
  	background-attachment: fixed;
 }
 
+table{
+	width: 100%
+}
+
 th{
 	font-family: Agency FB;
 	color: #ffffff;
 	font_size: 18px;
+}
+
+td2{
+	align-items: center;
 }
 
 h1{
