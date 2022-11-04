@@ -70,3 +70,10 @@ h2{
 	font_size: 20px;
 	text-align: center;
 }
+
+h3{
+	font-family: Lucida Console;
+	color: black;
+	font_size: 18px;
+	text-align: center;
+}
