@@ -6,6 +6,10 @@
 
 body{
  	background-color: #262626;
+	width: 100%;
+	height: 100%;
+	border: 0px;
+	padding: 0px;
 	margin: 0px;
 }
 
@@ -21,26 +25,27 @@ divheader{
 
 div1{
 	align-items: center;
-	width: 100%;
+	width: auto;
 	height: 450px;
 	border: 0px;
-	padding: 10px;
-	margin: 10px;
+	padding: 100px;
+	margin: 0px;
 	background-image: url("prom1.gif");
 	display: block;
  	background-repeat: no-repeat;
-	background-opacity: 80%;
  	background-position: center;
-	background-size: cover;
  	background-attachment: fixed;
+	background-opacity: 80%;
+	background-size: cover;
 }
 
 div2{
-	align-item: center;
+	align-items: center;
 	width: 100%;
 	height: 200px;
-	padding: 10px;
-	margin: 20px;
+	padding: 45px;
+	margin: 0px;
+	border: 0px;
 	background-color: #ffffff;
 	display: block;
 }
