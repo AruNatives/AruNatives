@@ -42,6 +42,7 @@ div2{
 	padding: 10px;
 	margin: 20px;
 	background-color: #ffffff;
+	display: block;
 }
 
 table{
