@@ -22,10 +22,10 @@ divheader{
 div1{
 	align-items: center;
 	width: 100%;
-	height: 100%;
+	height: 450px;
 	border: 0px;
 	padding: 10px;
-	margin: 0px;
+	margin: 10px;
 	background-image: url("prom1.gif");
 	display: block;
  	background-repeat: no-repeat;
@@ -38,8 +38,9 @@ div1{
 div2{
 	align-item: center;
 	width: 100%;
-	height: 50%;
+	height: 200px;
 	padding: 10px;
+	margin: 20px;
 	background-color: #ffffff;
 }
 
