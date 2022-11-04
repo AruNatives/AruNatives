@@ -15,14 +15,16 @@ divheader{
 }
 
 div1{
-	height: 100hv;
-	width: 100%;
-	background-image: url("https://raw.githubusercontent.com/AruNatives/AruNatives/9c0cf4cd14ca2894ca0da7f94e0223b903da0bbe/prom1.gif");
-	background-repeat: no-repeat;
+	width: auto;
+	height: 450px;
+	border: 0px;
+	padding: 100px;
+	margin: 0px;
+	background-image: url("prom1.gif");
+	display: block;
+ 	background-repeat: no-repeat;
  	background-position: center;
-	background-attachment: fixed;
-background_size: cover;
-z-index: 5;
+ 	background-attachment: fixed;
 }
 
 th{
