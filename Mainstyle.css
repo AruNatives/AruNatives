@@ -38,10 +38,12 @@ h1{
 	font-family: Lucida Console;
 	color: #ffffff;
 	font_size: 32px;
+	text-align: center;
 }
 
 h1{
 	font-family: Agency FB;
 	color: #ffffff;
 	font_size: 16px;
+	text-align: center;
 }
