@@ -1,11 +1,11 @@
-//FONTS
+FONTS
 
 @font-face {
   font-family: Lucida Console;
   src: url(LUCON.TTF);
 }
 
-//BODY
+BODY
 
 body{
  	background-color: #262626;
@@ -16,7 +16,7 @@ body{
 	margin: 0px;
 }
 
-//HEADER
+HEADER
 
 divheader{
 	height: 60px;
@@ -28,7 +28,7 @@ divheader{
 	top: 0;
 }
 
-//DIVS
+DIVS
 
 div1{
 	align-items: center;
@@ -71,14 +71,7 @@ div3{
 	display: block;
 }
 
-//TABLES
-
-table{
-	width: 100%;
-	padding: 0;
-	margin: 0;
-	
-}
+TABLES
 
 th{
 	font-family: Agency FB;
@@ -97,7 +90,7 @@ td2{
 	float: right;
 }
 
-//Hs
+Hs
 
 h1{
 	font-family: Lucida Console;
