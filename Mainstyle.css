@@ -45,11 +45,6 @@ div2{
 	display: block;
 }
 
-table{
-	width: auto;
-	align-items: center;
-}
-
 th{
 	font-family: Agency FB;
 	color: #ffffff;
@@ -57,7 +52,7 @@ th{
 }
 
 td2{
-	align-items: center;
+	align: right;
 }
 
 h1{
