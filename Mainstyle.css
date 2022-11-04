@@ -15,12 +15,13 @@ divheader{
 }
 
 div1{
-	height: 100%;
+	height: 100hv;
 	width: 100%;
 	background-image: url("prom1.gif");
 	background-repeat: no-repeat;
  	background-position: center;
 	background-attachment: fixed;
+background_size: cover;
 }
 
 th{
