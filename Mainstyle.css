@@ -45,7 +45,8 @@ div2{
 }
 
 table{
-	width: 100%
+	width: auto;
+	align-items: center;
 }
 
 th{
