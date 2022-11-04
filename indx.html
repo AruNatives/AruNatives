@@ -7,6 +7,18 @@
 	<link rel = "icon"
 	href = "Logo_2_I.png"
 	type = "image/x-icon">
+	
+	<script type="text/javascript">
+    $( document ).ready(function(){
+        var userLang = navigator.language || navigator.userLanguage;
+        if (userLang == "en") {
+            break;
+        }
+        else {
+            window.location.href = "www.google.com"
+        }
+    });
+</script>
 
 </head>
 <body>
