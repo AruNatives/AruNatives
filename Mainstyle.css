@@ -43,15 +43,15 @@ td2{
 }
 
 h1{
-	font-family: Lucida Console Normal;
+	font-family: Lucida Console;
 	color: #ffffff;
-	font_size: 32px;
+	font_size: 64px;
 	text-align: center;
 }
 
 h2{
 	font-family: Agency FB;
 	color: #ffffff;
-	font_size: 16px;
+	font_size: 20px;
 	text-align: center;
 }
