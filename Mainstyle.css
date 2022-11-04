@@ -20,18 +20,27 @@ divheader{
 }
 
 div1{
-	align-item: center;
+	align-items: center;
 	width: 100%;
-	height: 450px;
+	height: 100%;
 	border: 0px;
 	padding: 10px;
 	margin: 0px;
 	background-image: url("prom1.gif");
 	display: block;
  	background-repeat: no-repeat;
+	background-opacity: 80%;
  	background-position: center;
 	background-size: cover;
  	background-attachment: fixed;
+}
+
+div2{
+	align-item: center;
+	width: 100%;
+	height: 50%;
+	padding: 10px;
+	background-color: #ffffff;
 }
 
 table{
