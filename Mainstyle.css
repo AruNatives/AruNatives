@@ -45,8 +45,8 @@ div1{
 div2{
 	align-items: center;
 	width: auto;
-	height: 200px;
-	padding: 45px;
+	height: auto;
+	padding: 60px;
 	margin: 0px;
 	border: 0px;
 	background-color: #ffffff;
@@ -56,8 +56,8 @@ div2{
 div3{
 	align-items: center;
 	width: auto;
-	height: 100px;
-	padding: 0px;
+	height: auto;
+	padding: 60px;
 	margin: 0px;
 	border: 0px;
 	background-color: #101010;
@@ -67,8 +67,8 @@ div3{
 div4{
 	align-items: center;
 	width: auto;
-	height: 100px;
-	padding: 45px;
+	height: auto;
+	padding: 60px;
 	margin: 0px;
 	border: 0px;
 	background-color: #ffffff;
