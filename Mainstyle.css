@@ -80,6 +80,16 @@ td2{
 
 
 
+p1{
+	background-color: black;
+}
+
+.p2:hover{
+	background-color: white;
+}
+
+
+
 h1{
 	font-family: Lucida Console;
 	color: #ffffff;
