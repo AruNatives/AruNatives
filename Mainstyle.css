@@ -1,9 +1,11 @@
+/*FONTS*/
+
 @font-face {
   font-family: Lucida Console;
   src: url(LUCON.TTF);
 }
 
-
+/*LINKS*/
 
 .a:link{
 	text-decoration: none;
@@ -21,7 +23,7 @@
 	text-decoration: none;
 }
 
-
+/*BODY*/
 
 body{
  	background-color: #101010;
@@ -32,7 +34,7 @@ body{
 	margin: 0px;
 }
 
-
+/*DIVS*/
 
 divheader{
 	align-items: center;
@@ -124,7 +126,9 @@ div7{
 	display: inline;
 }
 
-div8{
+/*BUTTONS*/
+
+button{
 	vertical-align: center;
 	text-align: center;
 	width: auto;
@@ -139,11 +143,11 @@ div8{
 	display: block;
 }
 
-.div8:hover{
+.button:hover{
 	background_color: #757575;
 }
 
-
+/*TABLES*/
 
 table{
 	display: inline;
@@ -163,7 +167,7 @@ td2{
 	float: right;
 }
 
-
+/*PARAGRAPHS*/
 
 p1{
 	background-color: black;
@@ -173,7 +177,7 @@ p1{
 	background-color: white;
 }
 
-
+/*TEXT CSS*/
 
 h1{
 	font-family: Lucida Console;
