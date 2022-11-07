@@ -42,6 +42,7 @@ divheader{
 	width: 100%;
 	background-color: black;
 	padding: 20px;
+	padding-top: 10px;
 	position: fixed;
 	display: block;
 	top: 0;
