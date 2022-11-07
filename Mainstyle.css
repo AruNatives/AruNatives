@@ -108,7 +108,8 @@ div5{
 }
 
 div6{
-	align-items: center;
+	vertical-align: top;
+	float: right;
 	width: auto;
 	height: auto;
 	padding: 0px;
