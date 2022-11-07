@@ -135,12 +135,12 @@ div8{
 	border-color: #505050;
 	background-color: #ffffff;
 	border-radius:5px;
-	box-shadow: 0 0 3px black;
+	box-shadow: 0 0 10px #707070;
 	display: block;
 }
 
 .div8:hover{
-	background_color: ##757575;
+	background_color: #757575;
 }
 
 
