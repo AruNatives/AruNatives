@@ -187,6 +187,8 @@ h1{
 	font-size: 54px;
 	text-align: center;
 	text-shadow: 0 0 15px black;
+	padding-left: 25px;
+	padding-right: 25px;
 }
 
 h2{
