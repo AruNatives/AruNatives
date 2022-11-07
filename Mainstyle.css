@@ -141,6 +141,8 @@ button{
 	border-radius:5px;
 	box-shadow: 0 0 10px #707070;
 	display: block;
+	cursor: pointer;
+	left: 50%;
 }
 
 .button:hover{
