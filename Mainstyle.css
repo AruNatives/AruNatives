@@ -124,6 +124,23 @@ div7{
 	display: inline;
 }
 
+div8{
+	vertical-align: center;
+	width: auto;
+	height: auto;
+	padding: 15px;
+	margin: 0px;
+	border: 1px;
+	border-color: #505050;
+	background-color: #ffffff;
+	border-radius:20px;
+	box-shadow: 0 0 10px;
+}
+
+.div8:hover{
+	background_color: ##757575;
+}
+
 
 
 table{
@@ -174,7 +191,7 @@ h2{
 
 h3{
 	font-family: Lucida Console;
-	color: #ffffff;
+	color: black;
 	font-size: 24px;
 	text-align: center;
 }
