@@ -44,7 +44,7 @@ div1{
 
 div2{
 	align-items: center;
-	width: 100%;
+	width: auto;
 	height: 200px;
 	padding: 45px;
 	margin: 0px;
@@ -55,7 +55,7 @@ div2{
 
 div3{
 	align-items: center;
-	width: 100%;
+	width: auto;
 	height: 100px;
 	padding: 45px;
 	margin: 0px;
