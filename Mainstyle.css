@@ -60,7 +60,7 @@ div3{
 	padding: 45px;
 	margin: 0px;
 	border: 0px;
-	background-color: black;
+	background-color: #262626;
 	display: block;
 }
 
@@ -68,6 +68,7 @@ div3{
 
 th{
 	font-family: Agency FB;
+	font-size: 18px;
 	color: #ffffff;
 	border: 50px;
 	width: 200px;
@@ -107,6 +108,13 @@ h2{
 }
 
 h3{
+	font-family: Lucida Console;
+	color: black;
+	font_size: 18px;
+	text-align: center;
+}
+
+h4{
 	font-family: Lucida Console;
 	color: #ffffff;
 	font_size: 18px;
