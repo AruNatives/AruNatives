@@ -73,11 +73,6 @@ th{
 	width: 200px;
 }
 
-.th:hover{
-	background-color: #ffffff;
-	color: black;
-}
-
 td2{
 	align: right;
 	float: right;
@@ -103,7 +98,7 @@ h2{
 
 h3{
 	font-family: Lucida Console;
-	color: black;
+	color: white;
 	font_size: 18px;
 	text-align: center;
 }
