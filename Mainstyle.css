@@ -133,8 +133,8 @@ div8{
 	border: 1px;
 	border-color: #505050;
 	background-color: #ffffff;
-	border-radius:20px;
-	box-shadow: 0 0 10px;
+	border-radius:5px;
+	box-shadow: 0 0 3px black;
 }
 
 .div8:hover{
