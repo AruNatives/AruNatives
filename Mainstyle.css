@@ -117,6 +117,22 @@ div6{
 	display: inline;
 }
 
+.dropdownlang {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 div7{
 	padding:20px;
 	display: inline;
@@ -130,8 +146,7 @@ th{
 }
 
 .tdlang{
-	align: right;
-	float: right;
+	text-align: right;
 }
 
 td2{
