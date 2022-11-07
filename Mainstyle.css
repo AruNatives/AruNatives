@@ -133,9 +133,9 @@ div8{
 	width: auto;
 	height: auto;
 	border: 0px;
-	padding-top: 200px;
-	padding-bottom: 200px;
-	margin: 0px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-top: 75px;
 	background-image: url("prom1.gif");
 	display: block;
  	background-repeat: no-repeat;
