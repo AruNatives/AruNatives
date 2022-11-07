@@ -57,10 +57,21 @@ div3{
 	align-items: center;
 	width: auto;
 	height: 100px;
-	padding: 45px;
+	padding: 0px;
 	margin: 0px;
 	border: 0px;
 	background-color: #101010;
+	display: block;
+}
+
+div4{
+	align-items: center;
+	width: auto;
+	height: 100px;
+	padding: 45px;
+	margin: 0px;
+	border: 0px;
+	background-color: #ffffff;
 	display: block;
 }
 
