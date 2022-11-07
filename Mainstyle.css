@@ -122,14 +122,14 @@ div6{
   display: inline-block;
 }
 
-.dropdown-content {
+.dropdownlang-content {
   display: none;
   position: absolute;
   z-index: 1;
 }
 
 
-.dropdown:hover .dropdown-content {
+.dropdownlang:hover .dropdownlang-content {
   display: block;
 }
 
