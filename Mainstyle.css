@@ -5,6 +5,15 @@
 
 
 
+.a:link{
+	text-decoration: none;
+}
+
+.a:visited{
+	text-decoration: none;
+}
+
+
 body{
  	background-color: #101010;
 	width: 100%;
@@ -90,9 +99,6 @@ div5{
 
 
 th{
-	font-family: Agency FB;
-	font-size: 24px;
-	color: #ffffff;
 	border: 50px;
 	width: 150px;
 }
@@ -156,4 +162,10 @@ h6{
 	color: #ffffff;
 	font-size: 24px;
 	text-align: left;
+}
+
+h7{
+	font-family: Agency FB;
+	font-size: 24px;
+	color: #ffffff;
 }
