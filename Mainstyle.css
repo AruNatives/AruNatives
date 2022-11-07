@@ -106,10 +106,25 @@ div5{
 	display: block;
 }
 
+div6{
+	align-items: center;
+	width: auto;
+	height: auto;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+	background-color: black;
+	display: inline;
+}
+
 
 th{
 	border: 50px;
 	width: 150px;
+}
+
+.tdlang{
+	align: right;
 }
 
 td2{
