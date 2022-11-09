@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+
+<html lang="en";>
+
+<head>
+	<meta charset="urf-8">
+	<link rel="stylesheet" href="https://arunatives.github.io/AruNatives/Mainstyle.css">
+	<title>'Common Tissue 001' //Aru Natives//</title>
+	<link rel = "icon"
+	href = "https://github.com/AruNatives/AruNatives/blob/main/Logo_2_I.png?raw=true"
+	type = "image/x-icon">
+	
+</head>
+	
+<body>
+	<divheader>
+		<table>
+			<td>
+				<a href="https://arunatives.github.io/AruNatives">
+					<img src = "https://github.com/AruNatives/AruNatives/blob/main/Logo_2_I.png?raw=true" alt="Aru Natives Logo">
+				</a>
+			</td>
+			<td>
+				<th>
+					<a href="https://arunatives.github.io/AruNatives">
+						<button class="inv">
+							<h7>Home</h7>
+						</button>
+					</a>
+				</th>
+				<th>
+					<a href="https://arunatives.github.io/AruNatives/en/products">
+						<button class="inv">
+							<h7>Products</h7>
+						</button>
+					</a>
+				</th>
+				<th>
+					<a href="https://arunatives.github.io/AruNatives/en/contact">
+						<button class="inv">
+							<h7>Contact</h7>
+						</button>
+					</a>
+				</th>
+				<th>
+					<a href="https://arunatives.github.io/AruNatives/en/blog">
+						<button class="inv">
+							<h7>Blog</h7>
+						</button>
+					</a>
+				</th>
+			</td>
+			<td>
+				<div6>
+					<a href="https://arunatives.github.io/AruNatives/es/c/ct001/ct001#01">
+						<button class="inv">
+							<img src="https://github.com/AruNatives/AruNatives/blob/main/enlang_i.png?raw=true" alt="English language icon">
+							<h7> E N   </h7>
+							<img src="https://github.com/AruNatives/AruNatives/blob/main/chlang.png?raw=true" alt="Set language to spanish">
+							<h7> E S   </h7>
+						</button>
+					</a>
+				</div6>
+			</td>
+		</table>
+	</divheader>	
+	<div9>
+		<div style="text-align: center;">
+			<h2 style="color: #000000;background-color: #ffffff; padding: 5px; padding-left: 10px; padding-right: 10px;display: inline;text-shadow: 0 0 0;">
+				Lit Art for Lit Walls
+			</h2>
+		</div>
+	</div9>
+	<div4 style="padding-left: 100px; padding-right: 100px;">
+    <a href="https://arunatives.github.io/AruNatives/en/c/ct001/ct001i01">
+      <button class="previewcard">
+        <h9 class="pctitle">Common Tissue 001 #01</h9>
+        <h9 class="pcdesc">Canvas print with logotype design</h9>
+        <h9 class="pcprice">63.60 - 134.88 USD</h9>
+      </button>
+    </a>
+	</div4>
+	<div5>
+		<a href="https://forms.gle/8zjaCJTwU5SmtifC9">
+			<button class="inv">
+				<p><h6>SEND YOUR COMMENTS</h6></p>
+			</button>
+		</a>
+	</div5>
+	<div5>
+		<a href="https://arunatives.github.io/AruNatives/en/about">
+			<button class="inv">
+				<p><h6>ABOUT ARU NATIVES</h6></p>
+			</button>
+		</a>
+	</div5>
+	<div5>
+		<div7>
+			<a href="https://twitter.com/aru_natives">
+				<img src="https://github.com/AruNatives/AruNatives/blob/main/tw_i.png?raw=true" alt="Aru Natives Twitter">
+			</a>
+		</div7>
+		<div7>
+			<a href="https://instagram.com/aru_natives">
+				<img src="https://github.com/AruNatives/AruNatives/blob/main/ig_i.png?raw=true" alt="Aru Natives Instagram">
+			</a>
+		</div7>
+		<div7>
+			<a href="https://tiktok.com/@aru_natives">
+				<img src="https://github.com/AruNatives/AruNatives/blob/main/tk_i.png?raw=true" alt="Aru Natives TikTok">
+			</a>
+		</div7>
+		<div7>
+			<a href="https://www.facebook.com/profile.php?id=100087471246956">
+				<img src="https://github.com/AruNatives/AruNatives/blob/main/fb_i.png?raw=true" alt="Aru Natives Facebook">
+			</a>
+		</div7>
+	<div5>
+		<p><h5>©2022 Aru Natives, All rights reserved</h5><p>
+	</div5>
+</body>
+
+</html>
