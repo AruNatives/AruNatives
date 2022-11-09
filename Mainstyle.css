@@ -176,6 +176,8 @@ button{
 	height: 500px;
 	padding: 20px;
 	background-color: #ffff;
+	text-align: left;
+	display: inline;
 }
 
 /*TABLES*/
@@ -278,4 +280,13 @@ h9{
 
 .pctitle {
 	font-size: 32px;
+	font-weight: bold;
+}
+
+.pcdesc {
+	color: #656565;
+}
+
+.pcprice {
+	font-size: 20px;
 }
