@@ -390,6 +390,22 @@ h9{
 		top: 0;
 	}
 	
+	div1{
+		align-items: center;
+		width: auto;
+		height: auto;
+		border: 0px;
+		padding-top: 200px;
+		padding-bottom: 200px;
+		margin: 0px;
+		background-image: url("prom1_mobile.gif");
+		display: block;
+ 		background-repeat: no-repeat;
+ 		background-position: center;
+ 		background-attachment: fixed;
+		background-size: cover;
+	}
+	
 	div2{
 		padding: 25px;
 	}
