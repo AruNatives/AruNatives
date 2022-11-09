@@ -163,6 +163,14 @@ button{
 	background_color: #757575;
 }
 
+.inv{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+	background-color: none;
+	cursor: pointer;
+}
+
 /*TABLES*/
 
 table{
