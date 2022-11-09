@@ -369,6 +369,13 @@ h9{
 
 @media only screen and (max-width: 620px) {
 	
+	/*FONTS*/
+	
+	@font-face {
+ 	 font-family: Lucida Console;
+	  src: url(LUCON.TTF);
+	}
+	
 	/*DIVs*/
 	
 	divheader{
