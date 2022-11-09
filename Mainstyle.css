@@ -155,7 +155,7 @@ button{
 	border-color: #505050;
 	background-color: #ffffff;
 	border-radius:5px;
-	box-shadow: 0 0 10px #707070;
+	box-shadow: 0 0 3px #707070;
 	cursor: pointer;
 }
 
@@ -165,13 +165,17 @@ button{
 
 .inv{
 	padding: 0px;
-	margin: 0px;
-	border: 0px;
-	cursor: pointer;
 	box-shadow: 0 0 0;
 	background-color: transparent;
 	border-radius: 0px;
 	font-weight: bold;
+}
+
+.previewcard{
+	width: 300px;
+	height: 500px;
+	padding: 20px;
+	background-color: #ffff;
 }
 
 /*TABLES*/
