@@ -147,6 +147,25 @@ div9{
 	background-size: cover;
 }
 
+.pccolimg {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+.pccoltitle {
+	padding: 20px;
+	margin: 0px;
+	border: 0px;
+}
+
+.storedesc {
+	display: inline;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
 /*BUTTONS*/
 
 button{
@@ -183,6 +202,15 @@ button{
 	margin: 20px;
 	background-color: #ffff;
 	text-align: left;
+	display: inline;
+}
+
+.previewcard{
+	width: 450px;
+	height: 450px;
+	margin: 20px;
+	background-color: #ffff;
+	text-align: center;
 	display: inline;
 }
 
@@ -298,9 +326,30 @@ h9{
 	font-size: 16px;
 }
 
+.storetitle {
+	font-size: 32px;
+	font-weight: bold;
+	display: block;
+}
+
+.storetext {
+	font-size: 24px;
+	display: block;
+}
+
+.storeprice {
+	font-size: 20px;
+}
+
 /*IMGs*/
 
 .pcimg {
-	width: 100%;
+	width: 25%;
 	padding-bottom: 20px;
+}
+
+.storeimg {
+	width: 25%;
+	padding-right: 50px;
+	display: inline;
 }
