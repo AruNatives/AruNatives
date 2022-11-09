@@ -289,6 +289,12 @@ h9{
 	color: #656565;
 }
 
+/*IMGs*/
+
+.pcimg {
+	width: 100%;
+	padding-bottom: 20px;
+}
 .pcprice {
 	font-size: 16px;
 }
