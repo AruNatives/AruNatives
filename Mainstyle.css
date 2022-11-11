@@ -55,8 +55,8 @@ divheader{
 
 divheaderp{
 	align-items: center;
-	height: 80px;
-	width: 100%;
+	height: 60px;
+	width: -webkit-fill-available;
 	background-color: #000000;
 	padding: 20px;
 	padding-top: 5px;
