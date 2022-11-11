@@ -53,6 +53,20 @@ divheader{
 	top: 0;
 }
 
+divheaderp{
+	align-items: center;
+	height: 80px;
+	width: 100%;
+	background-color: #000000;
+	padding: 20px;
+	padding-top: 5px;
+	position: fixed;
+	display: block;
+	top: 0;
+	display: none;
+}
+
+
 div1{
 	align-items: center;
 	width: auto;
@@ -379,15 +393,11 @@ h9{
 	/*DIVs*/
 	
 	divheader{
-		align-items: center;
-		height: 10%;
-		width: 100%;
-		background-color: #000000;
-		padding: 20px;
-		padding-top: 5px;
-		position: fixed;
+		display: none;
+	}
+	
+	divheaderp{
 		display: block;
-		top: 0;
 	}
 	
 	div1{
