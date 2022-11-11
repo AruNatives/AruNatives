@@ -55,11 +55,10 @@ divheader{
 
 divheaderp{
 	align-items: center;
-	height: 60px;
+	height: 40px;
 	width: -webkit-fill-available;
 	background-color: #000000;
-	padding: 20px;
-	padding-top: 5px;
+	padding: 10px;
 	position: fixed;
 	display: block;
 	top: 0;
