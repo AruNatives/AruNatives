@@ -76,9 +76,6 @@ divmenu{
 	float: right;
 	padding: 10%;
 	background-color: #000000;
-	display: none;
-	right: -80%;
-	transition: right 0.5s;
 }
 
 divopmenu{
@@ -247,10 +244,6 @@ button{
 }
 
 .invmenu:active{
-	divmenu{
-		display: block;
-		right: 0px;
-	}
 	transform: rotate(90deg);
 }
 
