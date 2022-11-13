@@ -446,6 +446,20 @@ h9{
 		height: 30px;
 	}
 	
+	/*TABLES*/
+	
+	table{
+		padding-top: 0px;
+	}
+	
+	td{
+		padding: 0px;
+	}
+	
+	th{
+		padding: 0px;
+	}
+	
 	/*TEXT CSS*/
 	
 	h1{
