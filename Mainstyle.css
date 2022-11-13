@@ -288,16 +288,21 @@ button{
 
 .dropbtn {
 	background-color: #000000;
-	padding-left: 10px;
-	padding-right: 10px;
-	border: none;
+	border-left: 10px;
+	border-right: 10px;
 	cursor: pointer;
 	box-shadow: none;
+	border-color: none;
 }
 
 .dropdown {
-  position: relative;
-  display: inline-block;
+	position: relative;
+	display: inline-block;
+	border-left: 10p;
+	border-right: 10px;
+	border-top: 5px;
+	border-bottom: 5px;
+	border-color: #000000;
 }
 
 .dropdown-content {
