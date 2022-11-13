@@ -293,6 +293,7 @@ button{
 	cursor: pointer;
 	box-shadow: none;
 	border-color: none;
+	padding: 0px;
 }
 
 .dropdown {
