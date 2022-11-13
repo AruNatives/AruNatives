@@ -70,6 +70,20 @@ divheaderp{
 	display: none;
 }
 
+divmenu{
+	width: 80$;
+	float: right;
+	padding: 10%;
+	background-color: #000000;
+	display: none;
+	right: -80%;
+	transition: right 0.5s;
+}
+
+divopmenu{
+	display: block;
+}
+
 
 div1{
 	align-items: center;
@@ -220,6 +234,23 @@ button{
 	background-color: transparent;
 	border-radius: 0px;
 	font-weight: bold;
+}
+
+.invmenu{
+	padding: 0px;
+	box-shadow: 0 0 0;
+	background-color: transparent;
+	border-radius: 0px;
+	font-weight: bold;
+	transition: transform 0.5s;
+}
+
+.invmenu:active{
+	divmenu{
+		display: block;
+		right: 0px;
+	}
+	transform: rotate(90deg);
 }
 
 .previewcard{
