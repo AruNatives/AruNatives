@@ -71,6 +71,7 @@ divheaderp{
 }
 
 divmenu{
+	z-index: 1;
 	width: 80$;
 	float: right;
 	padding: 10%;
