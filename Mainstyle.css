@@ -287,10 +287,12 @@ button{
 }
 
 .dropbtn {
-  background-color: #000000;
-  padding: 10px;
-  border: none;
-  cursor: pointer;
+	background-color: #000000;
+	padding: 10px;
+	border: none;
+	cursor: pointer;
+	padding: 0px;
+	box-shadow: none;
 }
 
 .dropdown {
