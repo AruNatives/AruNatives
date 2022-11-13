@@ -1,6 +1,11 @@
 /*FONTS*/
 
 @font-face {
+  font-family: Agency FB;
+  src: url(https://arunatives.github.io/AruNatives/AGENCYFB-BOLD.TTF);
+}
+
+@font-face {
   font-family: Lucida Console;
   src: url(https://arunatives.github.io/AruNatives/LUCON.TTF);
 }
