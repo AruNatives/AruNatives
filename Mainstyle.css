@@ -286,6 +286,29 @@ button{
 	display: inline;
 }
 
+.dropbtn {
+  background-color: #000000;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #000000;
+  width: auto;
+  overflow: auto;
+  z-index: 1;
+}
+
+.show {display: block;}
+
 /*TABLES*/
 
 table{
