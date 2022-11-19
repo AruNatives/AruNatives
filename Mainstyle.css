@@ -457,6 +457,7 @@ h9{
 
 .pcimg {
 	width: 100%;
+	height: auto;
 	padding-bottom: 20px;
 }
 
@@ -536,6 +537,11 @@ h9{
 		background-size: cover;
 	}
 	
+	p{
+		margin: 0px;
+		margin-top: 5px;
+	}
+	
 	/*IMGs*/
 	
 	img{
@@ -549,7 +555,19 @@ h9{
 	.mobile1{
 		display: block;
 	}
-
+	
+	.pcimg {
+		width: 100%;
+		height: auto;
+		padding-bottom: 0px;
+	}
+	
+	/*BUTTONS*/
+	
+	.previewcard{
+		height: 320px;
+		width: 200px;
+	}
 	
 	/*TABLES*/
 	
@@ -599,6 +617,10 @@ h9{
 	
 	h8{
 		font-size: 18px;
+	}
+	
+	.pctitle{
+		font-size: 20px;
 	}
 		
 }
