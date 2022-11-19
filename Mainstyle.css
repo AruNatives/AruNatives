@@ -467,7 +467,7 @@ h9{
 }
 
 .storeimg {
-	width: 25%;
+	width: 30%;
 	padding-right: 50px;
 	display: inline;
 }
@@ -556,6 +556,13 @@ h9{
 	
 	img{
 		height: 30px;
+	}
+	
+	
+	.storeimg {
+		width: 100%;
+		padding-right: 0px;
+		display: block;
 	}
 	
 	.mobile0{
