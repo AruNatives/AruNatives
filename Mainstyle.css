@@ -319,6 +319,13 @@ button{
 
 .show {display: block;}
 
+.mobile0{
+}
+
+.mobile0{
+	display: none;
+}
+
 /*TABLES*/
 
 table{
@@ -534,6 +541,15 @@ h9{
 	img{
 		height: 30px;
 	}
+	
+	.mobile0{
+		display:none;
+	}
+	
+	.mobile0{
+		display: block;
+	}
+
 	
 	/*TABLES*/
 	
