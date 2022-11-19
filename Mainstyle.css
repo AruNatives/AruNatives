@@ -561,6 +561,7 @@ h9{
 	
 	.storeimg {
 		width: 100%;
+		height: auto;
 		padding-right: 0px;
 		display: block;
 	}
@@ -638,6 +639,14 @@ h9{
 	
 	.pctitle{
 		font-size: 20px;
+	}
+	
+	.storetitle{
+		font-size: 24px;
+	}
+	
+	.storetext{
+		font-size: 18px;
 	}
 		
 }
