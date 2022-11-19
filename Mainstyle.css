@@ -225,6 +225,11 @@ div9{
 	width: 25%;
 }
 
+.products{
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
 /*BUTTONS*/
 
 button{
@@ -540,6 +545,11 @@ h9{
 	p{
 		margin: 0px;
 		margin-top: 5px;
+	}
+	
+	.products{
+		padding-right: 25px;
+		padding-left: 25px;
 	}
 	
 	/*IMGs*/
