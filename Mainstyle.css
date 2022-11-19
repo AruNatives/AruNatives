@@ -503,7 +503,7 @@ h9{
 	}
 	
 	div3{
-		padding: 25px;
+		padding: 0px;
 	}
 	
 	div4{
@@ -519,9 +519,9 @@ h9{
 	}
 	
 	div9{
-		padding-top: 100px;
-		padding-bottom: 100px;
-		margin-top: 75px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		margin-top: 50px;
 		background-image: url("prom1.gif");
 		display: block;
  		background-repeat: no-repeat;
@@ -561,7 +561,7 @@ h9{
 	}
 	
 	.h2mobile{
-		font-size: 34px;
+		font-size: 20px;
 		padding: 10px;
 	}
 	
